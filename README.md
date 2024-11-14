@@ -26,6 +26,3 @@ I'm a software developer specializing in full-stack development with a focus on 
 [![](https://visitcount.itsvg.in/api?id=Bentouhami&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Bentouhami&icon=0&color=0)
