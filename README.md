@@ -2,7 +2,8 @@
 
 I'm a software developer specializing in full-stack development with a focus on building robust applications in Next.js, Java, and various modern frameworks. Passionate about creating efficient, scalable, and user-friendly solutions.
 
-
+##  Happy Coding
+[![wakatime](https://wakatime.com/badge/user/a477cd0f-5f8a-4509-8669-c3be97fb8616.svg)](https://wakatime.com/@a477cd0f-5f8a-4509-8669-c3be97fb8616)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faisal-bentouhami-inf) 
 
